@@ -1,0 +1,9 @@
+{
+	"name": "jaggutestadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddca5322-9057-4a7a-b7aa-762f4de91721",
+		"tenantId": "4731d4ab-13c4-47d3-ab9d-b8152177ac3b"
+	}
+}
