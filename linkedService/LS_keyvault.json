@@ -1,0 +1,11 @@
+{
+	"name": "LS_keyvault",
+	"properties": {
+		"description": "linked service for keyvault",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://Sec-Jaggu-key.vault.azure.net/"
+		}
+	}
+}
